@@ -1,0 +1,47 @@
+/*
+estilo da pagina index
+*/
+.center{
+text-align: center;
+
+}
+
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color:black;
+}
+
+#menu li a:hover{
+    color: pink;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+
+
+/*
+estilo da pagina resumo serie
+*/
+
+
+
+/*
+estilo da pagina contato
+*/
+
